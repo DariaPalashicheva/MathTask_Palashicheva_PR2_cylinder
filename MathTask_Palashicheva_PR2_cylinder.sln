@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTask_Palashicheva_PR2_cylinder", "MathTask_Palashicheva_PR2_cylinder.csproj", "{611EE005-8502-4DA6-B120-79A0B6A99ED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTaskTest_Palashicheva_PR2_cylinder", "..\MathTaskTest_Palashicheva_PR2_cylinder\MathTaskTest_Palashicheva_PR2_cylinder.csproj", "{D2FF5BF9-8025-40E9-94E0-A5A111CC461E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{611EE005-8502-4DA6-B120-79A0B6A99ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611EE005-8502-4DA6-B120-79A0B6A99ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611EE005-8502-4DA6-B120-79A0B6A99ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611EE005-8502-4DA6-B120-79A0B6A99ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2FF5BF9-8025-40E9-94E0-A5A111CC461E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FF5BF9-8025-40E9-94E0-A5A111CC461E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FF5BF9-8025-40E9-94E0-A5A111CC461E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FF5BF9-8025-40E9-94E0-A5A111CC461E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8979D1F7-7BF9-4005-8290-6C996F5DA6C3}
+	EndGlobalSection
+EndGlobal
